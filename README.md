@@ -1,6 +1,6 @@
 this project is like medium website.
 
-on this project we have 2 types of users
+on this project we have two types of users
 
 first normal user that can do :
 
